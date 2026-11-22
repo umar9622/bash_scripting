@@ -1,0 +1,5 @@
+# Generated backup archives
+*.tar.gz
+
+# Personal system logs
+log-rotation/logs/pacman.log
